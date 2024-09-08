@@ -49,6 +49,7 @@ Publications
   Published in 2021, Business Information 2021-6, First Author, ISSN: 1673-4041
   
 - [Exploring the Impacts of Feature Fusion Strategy in Multi-modal Entity Alignment](https://chenxiao-li.github.io/chenxiao.li.github.io/publication/2024-02-17-paper-title-number-4)
+
   Published in 2024, The 31st International Conference on Computational Linguistics (COLING 2025), First Author, Submitted
 
 Patent
