@@ -21,7 +21,7 @@ My research interest includes:
 
 Education Experiences
 ======
-- M.S. in Software Engineering, Northeastern University, Shenyang, China, 2025(expected)
+- M.S. in Software Engineering, Northeastern University, Shenyang, China, 2025 (expected)
 - B.S. in Software Engineering, University of Science and Technology Liaoning, Anshan, China, 2022
 
 Skills
@@ -33,7 +33,18 @@ Skills
 - Database Systems
 - Web Development
 
+Publications
+======
+- Application and Development of Computer Software Development Technology"
+2020, Digital Design 11 (Part 2), First Author, ISSN: 1672-9129
 
+
+- "Application of Layered Technology in Computer Software Development", 2020, Digital Design 12 (Part 1), First Author, ISSN: 1672-9129
+"Application of Computer Software Technology in the Big Data Era", 2021, Digital World Issue 187, First Author, ISSN: 1671-8313
+-
+"Research on Optimization Strategies for Computer Programming", 2021, Business Information 2021-6, First Author, ISSN: 1673-4041
+-
+"Exploring the Impacts of Feature Fusion Strategy in Multi-modal Entity Alignment", 2024, The 31st International Conference on Computational Linguistics (COLING 2025), First Author, Submitted
 
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
