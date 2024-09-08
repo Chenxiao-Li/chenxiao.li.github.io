@@ -54,7 +54,7 @@ Publications
 - Exploring the Impacts of Feature Fusion Strategy in Multi-modal Entity Alignment
   Published in 2024, The 31st International Conference on Computational Linguistics (COLING 2025), First Author, Submitted
 
-Patent:
+Patent
 ======
 - [Entity alignment method based on multi-granularity multi-mode interaction network](https://patents.google.com/patent/CN117573914A/en?oq=CN117573914A%2c), 2023
 
