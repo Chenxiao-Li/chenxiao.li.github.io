@@ -35,23 +35,20 @@ Skills
 
 Publications
 ======
-- Application and Development of Computer Software Development Technology
+- [Application and Development of Computer Software Development Technology](https://chenxiao-li.github.io/chenxiao.li.github.io/publication/2009-10-01-paper-title-number-1)
 
   Published in 2020, Digital Design 11 (Part 2), First Author, ISSN: 1672-9129
 
-- Application of Layered Technology in Computer Software Development 
 
-  Published in 2020, Digital Design 12 (Part 1), First Author, ISSN: 1672-9129
-
-- Application of Computer Software Technology in the Big Data Era
+- [Application of Computer Software Technology in the Big Data Era](https://chenxiao-li.github.io/chenxiao.li.github.io/publication/2020-11-1-paper-title-number-2)
 
   Published in 2021, Digital World Issue 187, First Author, ISSN: 1671-8313
   
-- Research on Optimization Strategies for Computer Programming
+- [Research on Optimization Strategies for Computer Programming](https://chenxiao-li.github.io/chenxiao.li.github.io/publication/2015-10-01-paper-title-number-3)
 
   Published in 2021, Business Information 2021-6, First Author, ISSN: 1673-4041
   
-- Exploring the Impacts of Feature Fusion Strategy in Multi-modal Entity Alignment
+- [Exploring the Impacts of Feature Fusion Strategy in Multi-modal Entity Alignment](https://chenxiao-li.github.io/chenxiao.li.github.io/publication/2024-02-17-paper-title-number-4)
   Published in 2024, The 31st International Conference on Computational Linguistics (COLING 2025), First Author, Submitted
 
 Patent
