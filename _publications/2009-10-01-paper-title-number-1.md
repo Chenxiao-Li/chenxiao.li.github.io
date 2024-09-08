@@ -1,7 +1,7 @@
 ---
 title: "Application and Development of Computer Software Development Technology"
 collection: "Digital Design 11 (Part 2)"
-permalink: "/publication/2009-10-01-paper-title-number-1"
+permalink: /publication/2009-10-01-paper-title-number-1
 date: "2020-11-1"
 venue: "Digital Design 11 (Part 2)"
 slidesurl: "http://academicpages.github.io/files/slides1.pdf"
