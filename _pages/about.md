@@ -54,4 +54,24 @@ Publications
 - Exploring the Impacts of Feature Fusion Strategy in Multi-modal Entity Alignment
   Published in 2024, The 31st International Conference on Computational Linguistics (COLING 2025), First Author, Submitted
 
-L
+Patent:
+======
+- [Entity alignment method based on multi-granularity multi-mode interaction network](https://patents.google.com/patent/CN117573914A/en?oq=CN117573914A%2c), 2023
+
+  Tong Qiang, Li Chenxiao
+
+Selected Awards and Honors
+======
+- National Third Prize in the University Computer Games Championship & National Games Tournament (Amazon Category), 2020
+- Third Prize in Mathematical Modeling Competition of Liaoning University of Science and Technology, 2020
+- National Third Prize in the 14th Chinese Collegiate Computing Competition (Artificial Intelligence Category), 2021
+- National First Prize in the University Computer Games Championship & National Games Tournament (Surakarta Category), 2021
+- National First Prize in the College Students Digital Skills Application Competition (Python Category), 2023
+- National Second Prize in the National College Computer Ability Challenge Programming Challenge (Python Category), 2023
+- National Second Prize in the Artificial Intelligence Future Design Competition·New Engineering Innovation Digital Skills Competition (Python Category), 2024
+
+Selected Scholarships
+======
+- Huawei Scholarship, 2023
+- Northeastern University Future Technology-Taihu Scholarship, 2023
+- Longyuan Scholarship, 2021
