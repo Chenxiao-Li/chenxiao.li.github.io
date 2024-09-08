@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Application and Development of Computer Software Development Technology"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+date: 2020-10-01
+venue: 'Digital Design 11 (Part 2)'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller fon
+With the rapid development of the internet and information technology, the penetration rate of computers is continuously increasing. Computer technology has become deeply integrated into people's lives and has brought new vitality to the development of various industries. To meet society's diverse needs for computer software, various measures must be adopted to accelerate the development and application of computer software. Among these, utilizing layered technology can enable computer software to span across different technical levels. This paper analyzes the measures and methods of applying multilayer technology in computer software development, aiming to provide new insights for professionals in the field.
