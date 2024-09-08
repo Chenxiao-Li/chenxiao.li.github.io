@@ -1,7 +1,10 @@
 ---
 title: "Research on Optimization Strategies for Computer Programming"
+collection: publications
+category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
 date: 2021-06-01
+venue: "Business Information 2021-6"
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 ---
