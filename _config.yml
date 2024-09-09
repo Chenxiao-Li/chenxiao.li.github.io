@@ -21,7 +21,7 @@ repository               : "chenxiao-li/chenxiao.li.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Profile_Pic_Chenxiao.png"
   name             : "Chenxiao Li"
   pronouns         : # example: "she/her"  
   bio              : "Master's student in Software Engineering"
