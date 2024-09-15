@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I’m a Second-year masster's student from [Software College](http://sc.neu.edu.cn/english/mainm.htm), [Northeastern University](https://www.neu.edu.cn/).
+I’m a Third-year master's student from [Software College](http://sc.neu.edu.cn/english/mainm.htm), [Northeastern University](https://www.neu.edu.cn/).
 
 I am very fortunate to be advised by [Prof. Tong Qiang](http://faculty.neu.edu.cn/tongq/en/index.htm) from Software College of Northeastern University. 
 
